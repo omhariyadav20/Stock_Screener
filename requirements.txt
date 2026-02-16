@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+numpy
+python-dotenv
+passlib[bcrypt]
+google-generativeai
+google-genai

@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password_hash": "$2b$12$FQ1tRRccryTQOgN7vw7yvOed1QrHersb7y1aRuKb63dntod2pFMnC",
+      "role": "admin",
+      "enabled": true
+    },
+    {
+      "username": "quant",
+      "password_hash": "$2b$12$BdzlhA858gDhgM6K9OF0POhU0g5tnNF/xTpp.Zg0BNdGZ0GF2lQvu",
+      "role": "user",
+      "enabled": true
+    }
+  ]
+}
